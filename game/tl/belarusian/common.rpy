@@ -5,31 +5,31 @@ translate belarusian strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Понедельник"
+    new "{#weekday}Панядзелак"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Вторник"
+    new "{#weekday}Аўторак"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Среда"
+    new "{#weekday}Серада"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Четверг"
+    new "{#weekday}Чацвер"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Пятница"
+    new "{#weekday}Пятніца"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Суббота"
+    new "{#weekday}Субота"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Воскресенье"
+    new "{#weekday}Нядзеля"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
@@ -37,7 +37,7 @@ translate belarusian strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Вт"
+    new "{#weekday_short}Ат"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
@@ -45,7 +45,7 @@ translate belarusian strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Чт"
+    new "{#weekday_short}Чц"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
@@ -53,11 +53,11 @@ translate belarusian strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Сб"
+    new "{#weekday_short}Су"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Вс"
+    new "{#weekday_short}Нд"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -205,7 +205,7 @@ translate belarusian strings:
 
     # renpy/common/00action_other.rpy:355
     old "Language [text]"
-    new "Язык [text]"
+    new "Мова [text]"
 
     # renpy/common/00gui.rpy:371
     old "Are you sure?"

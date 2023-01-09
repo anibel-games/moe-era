@@ -160,33 +160,33 @@ translate belarusian strings:
 
     # game/screens.rpy:475
     old "New Game+"
-    new "Новая игра+"
+    new "Новая гульня+"
 
     # game/screens.rpy:477
     old "New Game"
-    new "Новая игра"
+    new "Новая гульня"
 
     # game/screens.rpy:479
     old "Load"
     #new "Загрузить игру"
-    new "Загрузить"
+    new "Загрузіць"
 
     # game/screens.rpy:481
     old "Options"
-    new "Настройки"
+    new "Налады"
 
     # game/screens.rpy:488
     old "Quit"
     #new "Выйти из игры"
-    new "Выйти"
+    new "Выйсці"
 
     # game/screens.rpy:620
     old "Return"
-    new "Вернуться"
+    new "Вярнуцца"
 
     # game/screens.rpy:696
     old "About"
-    new "Об игре"
+    new "Аб гульне"
 
     # game/screens.rpy:703
     old "Version [config.version!t]\n"
@@ -198,11 +198,11 @@ translate belarusian strings:
 
     # game/screens.rpy:742
     old "Page {}"
-    new "Страница {}"
+    new "Старонка {}"
 
     # game/screens.rpy:742
     old "Automatic saves"
-    new "Автосохранения"
+    new "Аўтазахаванне"
 
     # game/screens.rpy:742
     old "Quick saves"

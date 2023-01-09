@@ -2664,7 +2664,7 @@ screen preferences1():
                 idle language_belarusian
             hover language_belarusian_hover
             action [Language("belarusian"), gui.SetPreference("font", 'ProximaNova-Bold.otf'), gui.SetPreference("size", 40), SetVariable("persistent.lang", 3)]
-            xpos -20
+            xpos -4
             ypos 30
         imagebutton:
             if persistent.lang == 4:
