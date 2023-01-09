@@ -1221,7 +1221,7 @@ translate chinese_trad style bebas:
 translate russian style menu_button:
     size 40
 translate belarusian style menu_button:
-    size 40
+    size 32
 translate chinese style menu_button:
     font "SourceHanSerifSC-Bold.otf"
 translate japanese style menu_button:
@@ -1280,7 +1280,7 @@ translate russian style tsave_button_text:
     xalign .025
     yalign .234
 translate belarusian style button_text_style:
-    size 42
+    size 36
 translate belarusian style tmenu_button_text:
     xalign .005
     yalign .915
