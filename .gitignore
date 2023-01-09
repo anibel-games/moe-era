@@ -4,3 +4,4 @@
 *.txt
 *.rpyb
 game/saves
+.DS_Store
