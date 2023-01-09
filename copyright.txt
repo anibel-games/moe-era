@@ -1,4 +1,0 @@
-Moe Era
-Copyright © 2020 Comfy Company. All rights reserved. 
-This published work includes the Ren'Py game engine whose material is covered by the license information included in the "LICENSE" document.
-This program contains free software licensed under a number of licenses, including the GNU Lesser Public License. A complete list of software is available at http://www.renpy.org/doc/html/license.html. 
