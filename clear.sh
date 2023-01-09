@@ -22,7 +22,7 @@ find ./game -name '*.pyo' |
 done
 
 
-
+rm -rf ./game/saves
 } &> /dev/null
 
 

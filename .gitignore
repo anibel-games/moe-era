@@ -1,6 +1,5 @@
 *.rpyc
 *.rpa
 *.bak
-log.txt
-traceback.txt
+*.txt
 game/saves
